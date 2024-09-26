@@ -24,7 +24,7 @@
 - :stuck_out_tongue:
 - :grimacing:
 
-# Keyboard shortcuts
+## Keyboard shortcuts
 Shortcuts I frequently use
 - Ctrl-X (Cut)
 - Ctrl-V (Paste)
