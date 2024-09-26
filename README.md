@@ -23,3 +23,14 @@
 - :smirk:
 - :stuck_out_tongue:
 - :grimacing:
+
+# Keyboard shortcuts
+Shortcuts I frequently use
+- Ctrl-X (Cut)
+- Ctrl-V (Paste)
+- Wi+Tab (Open the task view)
+
+Shortcut I would like to use
+- Win+L (Lock the computer)
+- F11 (Maximize Window)
+- Win+Shift+S (Screenshot)
