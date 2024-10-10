@@ -1,5 +1,5 @@
 # What is ls?
-- ls means list all files in the folder
+- "ls" command will list all files in the folder
 
 # What is cat?
--cat means access the file. 
+- "cat" command will access the file. 
