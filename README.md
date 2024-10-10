@@ -34,3 +34,6 @@ Shortcut I would like to use
 - Win+L (Lock the computer)
 - F11 (Maximize Window)
 - Win+Shift+S (Screenshot)
+
+# Quick Access
+[CLI commands](Docs/cli.md)
